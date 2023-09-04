@@ -1,2 +1,2 @@
 # Image-Gallery
-I made this hover effect image gallery gallery project using CSS and HTML
+I made this hover effect image gallery project using CSS and HTML
